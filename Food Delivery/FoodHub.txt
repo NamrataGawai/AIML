@@ -1,1 +1,4 @@
-This project was part of Introduction to Python, It demonstartes how we can analyse data using python, no machine learning was used in this project.
+This project was part of Introduction to Python, 
+It demonstartes how we can analyse data using python, 
+no machine learning was used in this project.
+I have not added ipynb as users can not run it without data.
