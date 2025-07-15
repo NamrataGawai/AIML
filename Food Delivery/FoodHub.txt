@@ -1,0 +1,1 @@
+This project was part of Introduction to Python, It demonstartes how we can analyse data using python, no machine learning was used in this project.
