@@ -1,0 +1,1 @@
+This project was created to predict if a bank customer would buy personal loan or not. It uses basic algorithm of Machine Learning like decision trees.
